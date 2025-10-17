@@ -1,6 +1,6 @@
 ## INTRODUCTION
 
-**NAME** : Opeoluwa
+**NAME** : Opeoluwa Akinsiku
 
 **SLACK USERNAME** : Eagle
 
